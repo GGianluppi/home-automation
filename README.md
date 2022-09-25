@@ -31,7 +31,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104764600/192168052-db0d6065-cc64-4c4e-82fc-e8feb49c87c3.png)" width="450" height="250">
+<img src="https://user-images.githubusercontent.com/104764600/192168052-db0d6065-cc64-4c4e-82fc-e8feb49c87c3.png" width="450" height="250">
 </p>
 
 
