@@ -1,7 +1,7 @@
 # home-automation
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104764600/192168021-f1e8db62-0d51-414c-b81d-95754818fb5d.png" width="550" height="150">
+<img src="https://user-images.githubusercontent.com/104764600/192168021-f1e8db62-0d51-414c-b81d-95754818fb5d.png" width="550" height="250">
 </p>
 
 
