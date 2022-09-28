@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192415670-c991bad7-e646-427b-b19c-f0be5d1b78d8.jpeg" width="450" height="300" /> <img src = "https://user-images.githubusercontent.com/104764600/192396701-7f96627a-24fd-4fc4-819f-7bab486ab688.jpeg" width="450" height="300" /></p>
+<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192415670-c991bad7-e646-427b-b19c-f0be5d1b78d8.jpeg" width="400" height="250" /> <img src = "https://user-images.githubusercontent.com/104764600/192396701-7f96627a-24fd-4fc4-819f-7bab486ab688.jpeg" width="400" height="250" /></p>
 
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192168047-b538d6fe-9c75-487e-b19d-905a19535275.jpeg" width="250" height="450" /> <img src = "https://user-images.githubusercontent.com/104764600/192168050-3a588fff-e99b-4d4a-acc4-c8be4831f0c0.jpeg" width="250" height="450" /></p>
