@@ -13,18 +13,16 @@
 
 
 
-<img src = "https://user-images.githubusercontent.com/104764600/192415670-c991bad7-e646-427b-b19c-f0be5d1b78d8.jpeg" width="450" height="300" /> <img src = "https://user-images.githubusercontent.com/104764600/192396701-7f96627a-24fd-4fc4-819f-7bab486ab688.jpeg" width="450" height="300" />
+<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192415670-c991bad7-e646-427b-b19c-f0be5d1b78d8.jpeg" width="450" height="300" /> <img src = "https://user-images.githubusercontent.com/104764600/192396701-7f96627a-24fd-4fc4-819f-7bab486ab688.jpeg" width="450" height="300" /></p>
 
 
+<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192168047-b538d6fe-9c75-487e-b19d-905a19535275.jpeg" width="250" height="450" /> <img src = "https://user-images.githubusercontent.com/104764600/192168050-3a588fff-e99b-4d4a-acc4-c8be4831f0c0.jpeg" width="250" height="450" /></p>
 
 
-<img src = "https://user-images.githubusercontent.com/104764600/192168047-b538d6fe-9c75-487e-b19d-905a19535275.jpeg" width="250" height="450" /> <img src = "https://user-images.githubusercontent.com/104764600/192168050-3a588fff-e99b-4d4a-acc4-c8be4831f0c0.jpeg" width="250" height="450" />
+<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192168052-db0d6065-cc64-4c4e-82fc-e8feb49c87c3.png" width="250" height="250" /> <img src = "https://user-images.githubusercontent.com/104764600/192168054-b47511dc-f7bc-4df5-a933-24a7e30ab186.png" width="450" height="450" /></p>
 
 
-<img src = "https://user-images.githubusercontent.com/104764600/192168052-db0d6065-cc64-4c4e-82fc-e8feb49c87c3.png" width="250" height="250" /> <img src = "https://user-images.githubusercontent.com/104764600/192168054-b47511dc-f7bc-4df5-a933-24a7e30ab186.png" width="450" height="450" />
-
-
-<img src = "https://user-images.githubusercontent.com/104764600/192168056-88003f7b-5fca-4974-8804-41ddeebb73e9.png" width="250" height="250" /> <img src = "https://user-images.githubusercontent.com/104764600/192168061-975471b8-e526-405a-b317-97a51e3e6932.png" width="250" height="250" />
+<p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192168056-88003f7b-5fca-4974-8804-41ddeebb73e9.png" width="250" height="250" /> <img src = "https://user-images.githubusercontent.com/104764600/192168061-975471b8-e526-405a-b317-97a51e3e6932.png" width="250" height="250" /></p>
 
 
 
