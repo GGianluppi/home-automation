@@ -34,7 +34,7 @@ primeira lâmpada foi acionada pela reprodução da palavra "Quarto", o ícone l
 
 ## Testes reproduzidos no protótipo
 
-NA primeira abordagem do teste consiste em observar a eficiência do aplicativo Blynk e do ESP8266 versão ESP-01 para acionamentos à distância, representado pela figura da esqueda. Alem disso, foram realizados testes voltado para o reconhecimento de voz, representado pela figura da direita.
+Na primeira abordagem do teste consiste em observar a eficiência do aplicativo Blynk e do ESP8266 versão ESP-01 para acionamentos à distância, representado pela figura da esqueda. Alem disso, foram realizados testes voltado para o reconhecimento de voz, representado pela figura da direita.
 
 (OBS: Nesta etapa de teste do reconhecimento de voz, foi adotada no modo de gravação uma distância mais próxima do módulo VR3. Por essa razão, a eficácia do reconhecimento de voz se qualificou próximo a distância inicialmente gravada.)
 
