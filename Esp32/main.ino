@@ -64,22 +64,22 @@ void relayOnOff(int relay){
       break;
       case 3: 
              if(toggleState_3 == 0){
-              digitalWrite(RELAY_PIN_3, HIGH); // turn on relay 2
+              digitalWrite(RELAY_PIN_3, HIGH); // turn on relay 3
               toggleState_3 = 1;
               }
              else{
-              digitalWrite(RELAY_PIN_3, LOW); // turn off relay 2
+              digitalWrite(RELAY_PIN_3, LOW); // turn off relay 3
               toggleState_3 = 0;
               }
              delay(200);
       break;
       case 4: 
              if(toggleState_4 == 0){
-              digitalWrite(RELAY_PIN_4, HIGH); // turn on relay 2
+              digitalWrite(RELAY_PIN_4, HIGH); // turn on relay 4
               toggleState_4 = 1;
               }
              else{
-              digitalWrite(RELAY_PIN_4, LOW); // turn off relay 2
+              digitalWrite(RELAY_PIN_4, LOW); // turn off relay 4
               toggleState_4 = 0;
               }
              delay(200);
