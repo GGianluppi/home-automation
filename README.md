@@ -1,4 +1,4 @@
-# home-automation
+# Home Automation
 
 Este projeto é parte do Trabalho de Conclusão do Curso II, que propõe o desenvolvimento de um dispositivo de automação residencial responsável por controlar equipamentos domésticos e interagir com pessoas com deficiência física dentro de um ambiente através de comando de voz, e fornecendo ao
 usuário uma interface através de um aplicativo.
