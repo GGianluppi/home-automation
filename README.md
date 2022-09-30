@@ -21,13 +21,22 @@ faria ao acionar um equipamento pelo reconhecimento de voz.
 
 ## Protótipo de Reconhecimento de voz junto ao aplicativo Blynk
 
+é possível observar o protótipo e aplicativo realizado para efetuar o acionamento dos equipamentos. Percebe-se que, todas as 4 lâmpadas que estão sendo representadas por cômodos, estão desativadas. A representação que os dispositivos não estão acionados, serão representados pela cor
+vermelha, de maneira oposta, a cor verde representa que o dispositivo está acionado.
+
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192415670-c991bad7-e646-427b-b19c-f0be5d1b78d8.jpeg" width="500" height="350" /> <img src = "https://user-images.githubusercontent.com/104764600/192168047-b538d6fe-9c75-487e-b19d-905a19535275.jpeg" width="200" height="350" /></p>
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192396701-7f96627a-24fd-4fc4-819f-7bab486ab688.jpeg" width="500" height="350" /> <img src = "https://user-images.githubusercontent.com/104764600/192168050-3a588fff-e99b-4d4a-acc4-c8be4831f0c0.jpeg" width="200" height="350" /></p>
 
+Duas formas de acionamento foram utilizadas e ambas tiveram uma alteração de cor no aplicativo Blynk, ou seja, assim que a
+primeira lâmpada foi acionada pela reprodução da palavra "Quarto", o ícone logo se alterou para a cor verde. O mesmo ocorreu com o botão "Sala", após pressioná-lo, sua cor se alterou de vermelho para verde, acionando a segunda lâmpada.
 
+## Testes reproduzidos no protótipo
 
+NA primeira abordagem do teste consiste em observar a eficiência do aplicativo Blynk e do ESP8266 versão ESP-01 para acionamentos à distância, representado pela figura da esqueda. Alem disso, foram realizados testes voltado para o reconhecimento de voz, representado pela figura da direita.
+
+(OBS: Nesta etapa de teste do reconhecimento de voz, foi adotada no modo de gravação uma distância mais próxima do módulo VR3. Por essa razão, a eficácia do reconhecimento de voz se qualificou próximo a distância inicialmente gravada.)
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/104764600/192168052-db0d6065-cc64-4c4e-82fc-e8feb49c87c3.png" width="400" height="300" /> <img src = "https://user-images.githubusercontent.com/104764600/192168054-b47511dc-f7bc-4df5-a933-24a7e30ab186.png" width="400" height="300" /></p>
 
