@@ -11,12 +11,12 @@ const byte rel1OFF[] = {0xA0, 0x01, 0x00, 0xA1}; //Hex command to send to serial
 const byte rel2ON[] = {0xA0, 0x02, 0x01, 0xA3};  //Hex command to send to serial for open relay
 const byte rel2OFF[] = {0xA0, 0x02, 0x00, 0xA2}; //Hex command to send to serial for close relay
 
-// Relay 1
+// Relay 3
 
 const byte rel3ON[] = {0xA0, 0x03, 0x01, 0xA4};  //Hex command to send to serial for open relay
 const byte rel3OFF[] = {0xA0, 0x03, 0x00, 0xA3}; //Hex command to send to serial for close relay
 
-// Relay
+// Relay 4
 
 const byte rel4ON[] = {0xA0, 0x04, 0x01, 0xA5};  //Hex command to send to serial for open relay
 const byte rel4OFF[] = {0xA0, 0x04, 0x00, 0xA4}; //Hex command to send to serial for close relay
