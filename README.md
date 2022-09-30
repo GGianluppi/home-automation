@@ -1,8 +1,23 @@
 # home-automation
 
+Este projeto é parte do Trabalho de Conclusão do Curso II, que propõe o desenvolvimento de um dispositivo de automação residencial responsável por controlar equipamentos domésticos e interagir com pessoas com deficiência física dentro de um ambiente através de comando de voz, e fornecendo ao
+usuário uma interface através de um aplicativo.
+
+
+## Diagrama geral do funcionamento do protótipo.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/104764600/192168021-f1e8db62-0d51-414c-b81d-95754818fb5d.png" width="650" height="250">
 </p>
+
+A interpretação do diagrama pode ser entendida da seguinte forma: a primeira
+alternativa para que o usuário acione um determinado equipamento, é utilizando o
+reconhecimento de voz realizado diretamente pelo módulo de reconhecimento de voz
+V3, onde ele enviará um comando para o módulo de 4 canais que fará o acionamento
+dos relés. A outra alternativa, visando pessoas que apresentam alguma incapacidade
+total ou parcial de produzir fala, permite a utilização de um aplicativo. Essa alternativa,
+faz com que o usuário realize os mesmos acionamentos que um segundo indivíduo
+faria ao acionar um equipamento pelo reconhecimento de voz.
 
 
 <p align="center">
