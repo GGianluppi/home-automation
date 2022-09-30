@@ -21,7 +21,7 @@ faria ao acionar um equipamento pelo reconhecimento de voz.
 
 ## Protótipo de Reconhecimento de voz junto ao aplicativo Blynk
 
-é possível observar o protótipo e aplicativo realizado para efetuar o acionamento dos equipamentos. Percebe-se que, todas as 4 lâmpadas que estão sendo representadas por cômodos, estão desativadas. A representação que os dispositivos não estão acionados, serão representados pela cor
+ possível observar o protótipo e aplicativo realizado para efetuar o acionamento dos equipamentos. Percebe-se que, todas as 4 lâmpadas que estão sendo representadas por cômodos, estão desativadas. A representação que os dispositivos não estão acionados, serão representados pela cor
 vermelha, de maneira oposta, a cor verde representa que o dispositivo está acionado.
 
 
