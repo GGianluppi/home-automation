@@ -47,7 +47,7 @@ Além disso, foi obtido a eficiência do protótipo através das tentativas e di
 ## Circuito de controle do protótipo
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104764600/192168035-c2d9b719-73f8-40eb-8eeb-ba66d55b6fb1.png" width="1050" height="650">
+<img src="https://user-images.githubusercontent.com/104764600/192168035-c2d9b719-73f8-40eb-8eeb-ba66d55b6fb1.png" width="1000" height="600">
 </p>
 
 
